@@ -1,4 +1,4 @@
-Electricity Load Prediction using Time Series Analysis
+Electricity Load Prediction using Time Series Analysis**
 This repository contains a time series analysis project for electricity load prediction. The dataset was collected in real-time using a simulation-based approach, capturing electricity power consumption trends over time.
 
 🔹 Features:
